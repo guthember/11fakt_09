@@ -10,12 +10,14 @@ namespace Szellemek
   {
     static void Main(string[] args)
     {
-      // 3 db ajtó
+      // 5 db ajtó
       // életerő 50
       // feladat: választunk az ajtók közül
       // 1 ajtó mögött szellem van (véletlenszerű)
+      // 1 ajtó mögött ellenfél van (véletlenszerű, máshol mint szellem)
       // ha szerencsénk van tovább
       // ha nincs -10 életerő
+      // ha legyőzünk egy ellenfelet +2 életerő
       // ha 0 az életerő --> GAME OVER
       // ? hány szobán jutottunk keresztül
       int eletero = 50;
